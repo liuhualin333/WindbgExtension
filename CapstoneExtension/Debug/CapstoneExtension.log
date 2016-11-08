@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  CapstoneExtension.cpp
+c:\users\randolph\documents\visual studio 2015\projects\capstoneextension\capstoneextension\capstoneextension.cpp(152): warning C4101: 'str2': unreferenced local variable
+  dllmain.cpp
+     Creating library C:\Users\Randolph\Documents\Visual Studio 2015\Projects\CapstoneExtension\Debug\CapstoneExtension.lib and object C:\Users\Randolph\Documents\Visual Studio 2015\Projects\CapstoneExtension\Debug\CapstoneExtension.exp
+  CapstoneExtension.vcxproj -> C:\Users\Randolph\Documents\Visual Studio 2015\Projects\CapstoneExtension\Debug\CapstoneExtension.dll

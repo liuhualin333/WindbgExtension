@@ -1,0 +1,5 @@
+LIBRARY CapstoneExtension
+EXPORTS 
+	cstool @1
+	mycommand1 @2
+	DebugExtensionInitialize @3
